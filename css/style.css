@@ -20,10 +20,11 @@ footer {
     height: 4rem;
 }
 
-.custom {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    line-height: 16px;
-    max-height: 96px;
-}
+
+/*
+MEDIA QUERYs
+smaller than or equal to 768 px (smartphones)
+larger than 768 px (small devices, tablets)
+larger than 992 px (medium devices)
+larger than 1200px (large devices)
+*/
